@@ -1,2 +1,1 @@
-include ':core', ':example', ':sample'
-//include ':example'
+include ':core', ':sample'

@@ -36,9 +36,10 @@ allprojects {
 
 ext {
     buildToolsVersion = "26.0.2"
+    daggerVersion = "2.12"
     compileSdkVersion = 27
     supportLibVersion = "27.0.0"
-
+    sourceCompatibility = JavaVersion.VERSION_1_8
     javaAnnotationVersion = "1.0"
     junitVersion = "4.12"
     mockitoCoreVersion = "2.10.0"
